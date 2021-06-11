@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Java-orange)
 ![](https://img.shields.io/badge/SQL-blue)
 ![](https://img.shields.io/badge/Git-inactive&?style=social&logo=appveyor)
+![](https://img.shields.io/badge/Favourite%20Text%20Editor-Atom-brightgreen)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gursmeepsyan&hide=issues,stars,prs&count_private=true&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
