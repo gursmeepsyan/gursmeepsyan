@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/R-9cf)
 ![](https://img.shields.io/badge/Java-orange)
 ![](https://img.shields.io/badge/SQL-blue)
+![](https://img.shields.io/badge/Git-inactive&?style=social&logo=appveyor)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gursmeepsyan&hide=issues,stars,prs&count_private=true&show_icons=true&theme=radical)
 )
