@@ -11,7 +11,12 @@
   </a>
  </p>
 
-
+![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/C++-red)
+![](https://img.shields.io/badge/C-green)
+![](https://img.shields.io/badge/R-9cf)
+![](https://img.shields.io/badge/Java-orange)
+![](https://img.shields.io/badge/SQL-blue)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gursmeepsyan&hide=issues,stars,prs&count_private=true&show_icons=true&theme=radical)
 )
