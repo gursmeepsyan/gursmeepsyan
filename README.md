@@ -1,6 +1,6 @@
 ### Hey , I'm Gursmeep Singh Syan        👋🔭⚡
- - 3rd Year Computing Science major student at Simon Fraser University 
-(also doing a minor in math and business)
+ - 4th Year Computing Science major student at Simon Fraser University 
+(also doing a minor in math)
 - You can connect with me via:
 <p>
   <a href="https://www.linkedin.com/in/gursmeep-singh-syan/">
