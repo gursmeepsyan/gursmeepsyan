@@ -1,5 +1,5 @@
 ### Hey , I'm Gursmeep Singh Syan        👋🔭⚡
- - Graduate Bacholor of Science in Computing Science major at Simon Fraser University with A specialization in Information Systems and AI
+ - Graduate Bachelor of Science in Computing Science major at Simon Fraser University with A specialization in Information Systems and AI
 - You can connect with me via:
 <p>
   <a href="https://www.linkedin.com/in/gursmeep-singh-syan/">
